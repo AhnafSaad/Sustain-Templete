@@ -16,7 +16,7 @@ export const products = [
     originalPrice: 119.99,
     description: 'Premium bamboo yoga mat made from sustainable materials. Non-slip surface with natural antimicrobial properties.',
     fullDescription: 'Our Eco Bamboo Yoga Mat is crafted from 100% sustainable bamboo fibers, providing excellent grip and comfort for your practice. The natural antimicrobial properties keep your mat fresh, while the biodegradable materials ensure minimal environmental impact. Perfect for all yoga styles, from gentle Hatha to intense Vinyasa flows.',
-    image: 'eco-bamboo-yoga-mat-in-use',
+    image: ''https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=500&fit=crop',
     ecoTag: 'Biodegradable',
     inStock: true,
     rating: 4.8,
